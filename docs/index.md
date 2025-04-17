@@ -1,6 +1,6 @@
 ---
 title: Home
-description: Welcome to my digital garden of notes, projects, and learning paths.
+description: Welcome to my digital garden of notes, projects, and learning paths
 ---
 
 # 🧠 Michael's Knowledge Garden
