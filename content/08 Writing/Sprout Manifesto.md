@@ -1,3 +1,3 @@
 # Sprout Manifesto
 
-A vision for AI-aligned personal operating systems.
+How developers can use intentional AI tools to stay in flow and avoid distraction.

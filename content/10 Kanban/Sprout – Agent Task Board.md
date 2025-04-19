@@ -3,11 +3,11 @@ kanban-plugin: basic
 ---
 
 ## Backlog
-- Build popup ritual system
-- Create Observer weekly report template
+- Build ritual popup in Sprout
+- Add reflection prompts to Compass
 
 ## Doing
-- Logging Git commits for Historian
+- Writing README for Interview Analyzer
 
 ## Done
-- Refactored Supabase schema
+- Refined Obsidian structure

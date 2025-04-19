@@ -1,10 +1,3 @@
-# Sprout – Modular Life Agent System
+# Sprout – VS Code Extension for Developer Focus
 
-Core agents:
-- Ritualist
-- Observer
-- Connector
-- Fueler
-- Mover
-- Historian
-- Synthesizer
+Helps developers stay in flow using ritual prompts, timers, and a visual plant metaphor.

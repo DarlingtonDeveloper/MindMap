@@ -1,3 +1,3 @@
 # Idea Garden 🌱
 
-Seed-stage thoughts, mental loops, experimental mechanisms.
+Unfinished ideas, mental models, and experimental directions.

@@ -1,3 +1,3 @@
 # Knowledge
 
-Curated evergreen notes and learnings.
+Evergreen notes and references.

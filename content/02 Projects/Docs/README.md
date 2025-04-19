@@ -1,3 +1,3 @@
 # Docs (MindMap)
 
-Public-facing knowledge hub and dev journal using Quartz.
+Quartz-powered public documentation hub and dev journal.
