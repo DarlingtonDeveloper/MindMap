@@ -3,7 +3,7 @@ title: Home
 description: Welcome to my digital garden of notes, projects, and learning paths
 ---
 
-# 🧠 Michael's Knowledge Garden
+# 🧠 Michael's Knowledge Gardenzz s
 
 Welcome! This is a curated collection of my notes on software architecture, personal development, and more.
 
