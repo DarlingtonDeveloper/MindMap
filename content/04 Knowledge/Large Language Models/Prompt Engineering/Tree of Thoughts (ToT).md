@@ -1,0 +1,18 @@
+**Tree of Thoughts (ToT) is presented as a more advanced prompting technique within the field of Prompt Engineering that builds upon and generalizes the concept of Chain of Thought (CoT)**.
+
+Here's a discussion of ToT in the larger context of prompt engineering, according to the sources:
+
+- **Generalization of Chain of Thought (CoT)**: The sources explicitly state that **ToT generalizes the concept of CoT prompting**. While CoT encourages the LLM to generate a single linear sequence of reasoning steps, **ToT expands this by allowing LLMs to explore multiple different reasoning paths simultaneously**. This fundamental difference is visualized in Figure 1, which contrasts the linear progression of CoT with the branching structure of ToT.
+    
+- **Suitability for Complex Tasks**: The ability to explore multiple reasoning paths makes **ToT particularly well-suited for complex tasks that require exploration and deliberation**. Unlike tasks where a straightforward chain of thought might suffice, intricate problems might benefit from considering various potential intermediate steps and their consequences, which ToT facilitates.
+    
+- **Mechanism: Maintaining a Tree of Thoughts**: ToT achieves this exploration by **maintaining a tree of thoughts**. In this structure, **each "thought" represents a coherent language sequence that acts as an intermediate step towards solving the overall problem**. The LLM can then **explore different reasoning paths by branching out from different nodes within this tree**. This allows for a more flexible and potentially more thorough problem-solving process compared to the rigid linear structure of CoT.
+    
+- **Relationship to Self-consistency**: The sources introduce Self-consistency as a technique that generates diverse reasoning paths (often using CoT) and selects the most consistent answer. While not explicitly stated, ToT can be seen as another method to generate these diverse reasoning paths, potentially offering a more structured and deliberate approach to exploring possibilities compared to the sampling-based diversity in Self-consistency.
+    
+- **Position within Prompt Engineering Techniques**: ToT is listed alongside other prompting techniques such as zero-shot, few-shot, system, role, contextual, step-back, CoT, Self-consistency, and ReAct. This placement highlights its role as one of the more sophisticated strategies within the prompt engineer's toolkit, intended for tasks that push the reasoning capabilities of LLMs.
+    
+- **Further Resources**: The sources mention the existence of a "**great notebook**" based on the paper "**Large Language Model Guided Tree-of-Thought**", suggesting that more in-depth information and practical examples of ToT can be found in external resources.
+    
+
+In the larger context of Prompt Engineering, ToT represents an evolution beyond simple prompting and even beyond the linear reasoning of CoT. It acknowledges that complex problem-solving often involves exploring multiple options and backtracking, mirroring more closely how humans tackle challenging tasks. By prompting the LLM to generate and evaluate different intermediate thoughts and paths, ToT aims to unlock more advanced reasoning abilities and achieve better performance on problems that demand exploration and a non-linear thought process. The introduction of ToT signifies a move towards more sophisticated prompting strategies that try to mimic more complex cognitive processes within LLMs.
