@@ -27,19 +27,6 @@ Understanding these groups helps shape my early content so it lands and builds m
 - Use threads, tools, and soft critiques of Web3 hype cycles to open the door  
 - Gently shift them toward wellness, alignment, and systems-thinking
 
----
-
-## 📸 Instagram – Inspired Wanderer
-
-- People I’ve met through friends, travel, or past chapters of life
-- Often digital nomads, creatives, or lifestyle explorers
-- Interested in intention, movement, healthy living, beautiful design, and self-expression
-- Not always technical — more into vibe than code
-- May resonate with my routines, reflections, or philosophical posts
-
-**Strategic approach:**  
-- Use wellness, aesthetics, and life design posts as soft bridges  
-- They may not engage with SoloBoost, but could love the blog tone and direction
 
 ---
 
@@ -53,3 +40,17 @@ Understanding these groups helps shape my early content so it lands and builds m
 **Strategic approach:**  
 - Don’t tailor content for them, but reshare posts that mix clarity with strategy  
 - Occasional posts about job transitions, flow, or building tools = good entry points
+
+---
+
+## 📸 Instagram – Inspired Wanderer
+
+- People I’ve met through friends, travel, or past chapters of life
+- Often digital nomads, creatives, or lifestyle explorers
+- Interested in intention, movement, healthy living, beautiful design, and self-expression
+- Not always technical — more into vibe than code
+- May resonate with my routines, reflections, or philosophical posts
+
+**Strategic approach:**  
+- Use wellness, aesthetics, and life design posts as soft bridges  
+- They may not engage with SoloBoost, but could love the blog tone and direction
